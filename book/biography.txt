@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 tom is awesome, NOT, but yes.
 
 What a beautiful haiku.
 
 Cookie?
+=======
+tom is awesome.
+>>>>>>> a98cfd0c2133ca5550c46fd9b71e0efe6686288e
